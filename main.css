@@ -32,7 +32,7 @@ header {
 }
 
 section {
-    min-height: 200px;
+    min-height: 400px;
     padding: 6% 0;
     background-color: #bbb;
 }
@@ -40,3 +40,15 @@ section {
 section:nth-child(even) {
     background-color: #ddd;
 }
+
+.same-bg{
+    background-color: #dddddd;
+}
+
+.contect-section{
+    min-height: 200px;
+    background-color:#ffffff;
+    border: #444444 solid 5px;
+}
+
+
